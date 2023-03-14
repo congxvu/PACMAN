@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(112,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(479,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(479,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(494,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(494,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(508,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(508,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(787,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(787,99): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(798,52): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\Lab3\Source.cpp(798,97): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Lab3.vcxproj -> C:\Users\congx\OneDrive - Georgia Institute of Technology\Class\ECE 4122\Lab\Lab31104\x64\Debug\Lab3.exe
